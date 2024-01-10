@@ -49,6 +49,6 @@ public class 연속된부분수열의합 {
         }
         answer[0] = answers.get(minIndex).start;
         answer[1] = answers.get(minIndex).end;
-        return answer;
+        //return answer;
     }
 }
